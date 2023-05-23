@@ -1,6 +1,6 @@
 # ElzeroPHPTasks
 
-This Repo For The Solutions of The PHP Bootcamp on Elzero Web School Channel.
+This Repo Is For The Solutions of The PHP Bootcamp Tasks on Elzero Web School Channel.
 
 - [Link of The Bootcamp](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
 
